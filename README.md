@@ -1,5 +1,3 @@
-tags: python pygame
----
 #Ocean Adventure Dependency#
 sudo apt-get install python-pygame
 

@@ -1,0 +1,6 @@
+1.Touching a shark or a jelly fish will make you lose a life
+2.Watch out the bubble of jelly fishes, they are poisonous
+3.Each coin worth 50 scores
+4.Each pink diamond worth 200 scores
+5.Each blue diamond can add 1 life to you
+6.Now please save the mermaids as quickly as possible

@@ -1,0 +1,20 @@
+
+
+“Ù¿÷
+
+±≥æ∞“Ù¿÷
+instruction
+selectPlayer
+game
+
+shoot
+gainDiamond
+gainCoin
+gainLife
+jump
+loseLife
+#enemyDie  "yeah"
+
+
+win  "ª∂∫Ù"
+lose  "oh..."

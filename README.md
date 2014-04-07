@@ -1,6 +1,4 @@
-title: Ocean Adventure README
-date: 2014-04-07 14:26:12
-tags:
+tags: python pygame
 ---
 #Ocean Adventure Dependency#
 sudo apt-get install python-pygame

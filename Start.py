@@ -125,7 +125,7 @@ def main():
     level = 1
     
     channel = pygame.mixer.find_channel() 
-    snd_gameBG = pygame.mixer.Sound(p("sound", "gameBG.ogg"))
+    snd_gameBG = pygame.mixer.Sound(p("sound", "gameBG.wav"))
     
 
     while not donePlaying:
